@@ -1,0 +1,19 @@
+{
+    "name": "dikah/oop-praktikum-7",
+    "description": "Praktikum 7 pemrograman berbasis web lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dikah\\OopPraktikum7\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dika",
+            "email": "dika@gmail.com"
+        }
+    ]
+}
